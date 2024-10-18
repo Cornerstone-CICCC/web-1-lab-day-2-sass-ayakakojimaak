@@ -1,0 +1,10 @@
+// Import partials
+@import "partials/variables";
+@import "partials/reset";
+@import "partials/main";
+@import "partials/responsive";
+
+body {
+  line-height: 1.6;
+  padding: 0;
+}
